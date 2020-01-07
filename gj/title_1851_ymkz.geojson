@@ -1,0 +1,32 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "at1",
+				"title": "横濱村並近傍之図（横浜市史稿. 附圖）",
+				"author": "横浜市役所",
+				"publication_year": "原図：嘉永4年3月（1851）<br>朱記：昭和7年（1932）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1213743' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/1851_yokohamamura_ex.jpg' target='ref'><img src='./images/1851_yokohamamura_ex.jpg' width=300></a>",
+		        "description": "開港のための工事が行われる前の状況",
+				"style": {
+				"fillColor": "#74ce46",
+				"fillOpacity": 0,
+				"color": "#ff0",
+				"weight": 2,
+				"opacity": 0.7
+				}
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[118.46,-10.50],[124.09,  -10.81],[124.22,  -42.77],[118.35,  -42.49]
+					]
+				]
+			}
+		}
+    ]
+}

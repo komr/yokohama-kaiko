@@ -1,0 +1,28 @@
+﻿html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+ 
+#map {
+    z-index: 0;
+    height: 100%;
+}
+ 
+.leaflet-google-layer {
+    z-index: 1;
+}
+ 
+.leaflet-map-pane {
+    z-index: 2;
+}
+
+/*紫色のアイコンのCSS  */
+.icon1 {
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 10px;
+    border: 3px solid #fdfdfd;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
+    background-color: rgb(204, 51, 166);
+}

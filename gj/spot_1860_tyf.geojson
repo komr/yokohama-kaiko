@@ -1,0 +1,1662 @@
+ {
+  "type": "FeatureCollection",
+  "features": [
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "name": "此岬ニ弘法大師大石経文有",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [55.82,-0.68],[56.57,-0.68],[56.60,-1.78],[55.80,-1.79]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "常燈明岬",
+        "description": "羽田弁天の岬には高灯篭が設置された。<br>砂洲の堆積が年々沖に進行し、常夜灯が海上から遠ざかってしまったことから、何度か移設されている。当時（1860年頃）は、社殿から離れた羽田沖の浅瀬の突端に櫓（やぐら）が建てられていた。<br>(<a href=\"http://www.tamagawa-kisui.jp/ref/ref-14.html\" target=\"ref\">出典</a>）",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [49.46,-0.35],[49.93,-0.34],[49.93,-1.77],[49.47,-1.77]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "name": "弁天宮",
+        "description": "羽田弁天（別称、玉川弁財天）のこと。江戸時代中期から海上守護神として江戸商家や廻船問屋の信仰を集めた。<br>(<a href=\"http://www.tamagawa-kisui.jp/ref/ref-14.html\" target=\"ref\">出典</a>）",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [46.95,-0.46],[47.40,-0.46],[47.38,-1.80],[46.95,-1.80]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "name": "羽根田",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [44.91,-0.47],[45.33,-0.48],[45.32,-1.77],[44.90,-1.76]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "name": "大師河原",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [42.67,-0.53],[43.12,-0.54],[43.11,-1.77],[42.65,-1.77]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "name": "平間寺",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [40.85,-0.25],[41.21,-0.25],[41.22,-1.43],[40.86,-1.43]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "name": "大師堂",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [40.41,-0.24],[40.83,-0.25],[40.82,-1.69],[40.40,-1.68]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "name": "六郷",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [36.40,-0.44],[36.88,-0.44],[36.87,-1.75],[36.38,-1.75]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "name": "ウシホタ新田",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [34.45,-2.36],[34.89,-2.37],[34.93,-3.95],[34.49,-3.95]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "name": "船渡場",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [34.23,-0.42],[34.66,-0.45],[ 34.66,-1.84],[34.23,-1.85]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "name": "六玉川ノウチムサシノ玉川是ヘ",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [32.62,-0.44],[33.07,-0.45],[33.06,-1.88],[32.60,-1.87]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "12",
+        "name": "コノ川上ニ調布ト云所イマニアリ",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [30.93,-0.45],[31.38,-0.45],[31.36,-1.88],[30.92,-1.87]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "name": "川崎",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [27.88,-0.57],[28.34,-0.58],[28.30,-2.00],[27.84,-2.00]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "name": "八丁縄手",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [22.55,-0.74],[23.03,-0.75],[23.04,-2.14],[22.56,-2.13]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "name": "市場村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [19.27,-0.95],[19.70,-0.94],[19.69,-2.28],[19.26,-2.28]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "name": "ツルミ川",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [17.35,-1.00],[17.72,-0.99],[17.72,-2.27],[17.32,-2.27]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "name": "ツルミバシ",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [16.93,-1.00],[17.31,-1.00],[17.31,-2.27],[16.92,-2.28]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "18",
+        "name": "鶴見村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.39,-1.06],[13.83,-1.05],[13.85,-2.30],[13.38,-2.30]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "19",
+        "name": "生麦村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.21,-1.04],[9.63,-1.03],[9.63,-2.31],[9.21,-2.33]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "20",
+        "name": "東子安村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [4.94,-1.12],[5.38,-1.11],[5.38,-2.45],[4.96,-2.46]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "21",
+        "name": "子生山観音",
+        "description": "子生山東福寺",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [2.01,-0.94],[2.48,-0.93],[2.50,-2.25],[2.04,-2.25]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "22",
+        "name": "入会村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.04,-0.72],[0.52,-0.72],[0.50,-2.15],[0.02,-2.16]
+          ]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "65",
+        "name": "林光寺",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [1.36,-5.62],[1.81,-5.62],[1.84,-6.95],[1.38,-6.99]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "66",
+        "name": "不動山",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [1.29,-2.72],[1.76,-2.68],[1.75,-4.72],[1.28,-4.70]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70",
+        "name": "大岡川",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [1.06,-12.92],[1.53,-12.90],[1.53,-14.43],[1.06,-14.45]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "71",
+        "name": "野毛橋",
+        "description": "現在の都橋",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [3.67,-12.63],[4.12,-12.64],[4.11,-13.98],[3.67,-13.97]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "72",
+        "name": "野毛浦",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [5.00,-7.41],[5.44,-7.42],[5.45,-8.96],[5.00,-8.98]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "73",
+        "name": "宮ガサキ",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [6.97,-6.96],[7.41,-6.92],[7.44,-8.42],[6.99,-8.42]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "74",
+        "name": "タカノ",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [8.40,-4.91],[8.82,-4.92],[8.85,-6.35],[8.41,-6.34]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "75",
+        "name": "姥ガ石",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [10.84,-5.13],[11.25,-5.14],[11.27,-6.43],[10.86,-6.42]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "76",
+        "name": "吉田新田",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [6.36,-14.20],[6.84,-14.19],[6.87,-15.80],[6.38,-15.81]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "77",
+        "name": "吉田橋",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [18.84,-10.26],[19.27,-10.23],[19.31,-11.69],[18.88,-11.69]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "78",
+        "name": "漁師舩",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [32.26,-7.69],[32.65,-7.71],[32.66,-9.09],[32.23,-9.12]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "79",
+        "name": "弁天ノ社",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [35.85,-4.87],[36.33,-4.87],[36.32,-6.62],[35.85,-6.61]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "80",
+        "name": "弁天町",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [37.92,-7.53],[38.36,-7.53],[38.37,-8.96],[37.92,-8.97]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "81",
+        "name": "弁天町一丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [43.12,-6.88],[43.57,-6.88],[43.60,-8.22],[43.15,-8.24]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "82",
+        "name": "弁天町二丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [45.15,-7.63],[47.19,-7.50],[47.20,-7.79],[45.15,-7.95]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "83",
+        "name": "同三丁目（弁天町）",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [51.42,-6.79],[53.63,-6.74],[53.64,-7.16],[51.41,-7.24]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "84",
+        "name": "同四丁目（弁天町）",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [55.49,-6.95],[57.95,-6.83],[57.95,-7.21],[55.49,-7.31]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "85",
+        "name": "同五丁目（弁天町）",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [60.91,-6.51],[62.76,-6.47],[62.76,-6.76],[60.91,-6.85]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "86",
+        "name": "町会所",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [62.87,-5.41],[63.30,-5.41],[63.31,-6.69],[62.89,-6.70]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "87",
+        "name": "同五丁目（弁天町）",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [63.32,-5.11],[63.75,-5.09],[63.75,-6.67],[63.32,-6.69]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "88",
+        "name": "本町一丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [45.56,-7.22],[47.43,-6.56],[47.44,-6.96],[45.57,-7.58]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "89",
+        "name": "本町二丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [48.12,-6.44],[50.30,-6.37],[50.33,-6.78],[48.11,-6.82]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "90",
+        "name": "同三丁目（本町）",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [53.26,-6.36],[55.85,-6.18],[55.85,-6.60],[53.25,-6.73]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "91",
+        "name": "同四丁目（本町）",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [58.21,-6.12],[60.46,-6.03],[60.44,-6.41],[58.19,-6.49]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "92",
+        "name": "同五丁目（本町）",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [64.08,-5.86],[66.03,-5.77],[66.03,-6.09],[64.08,-6.20]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "93",
+        "name": "芝居",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [44.75,-5.00],[45.19,-5.00],[45.21,-6.23],[44.77,-6.24]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "94",
+        "name": "海岸町一丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [47.44,-5.56],[49.23,-5.55],[49.23,-5.89],[47.46,-5.95]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "95",
+        "name": "海岸町二丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [51.42,-5.66],[53.11,-5.66],[53.11,-6.08],[51.42,-6.13]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "96",
+        "name": "芝居",
+        "description": "横浜最初の芝居小屋「下田屋」。<br>安政6年(1859年)10月中旬開場。<br>",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [54.96,-4.65],[55.39,-4.66],[55.38,-5.67],[54.95,-5.67]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "97",
+        "name": "同三丁目（海岸町）",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [56.23,-5.50],[58.30,-5.47],[58.30,-5.86],[56.22,-5.93]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "98",
+        "name": "同四丁目（海岸町）",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [60.60,-5.36],[62.62,-5.27],[62.63,-5.70],[60.60,-5.79]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "99",
+        "name": "同五丁目（海岸町）",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [64.92,-5.09],[66.97,-4.98],[66.98,-5.37],[64.94,-5.47]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "100",
+        "name": "商人会所",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [67.73,-4.71],[68.18,-4.67],[68.20,-5.96],[67.77,-5.98]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "101",
+        "name": "金比羅社",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [66.92,-7.39],[67.36,-7.39],[67.35,-8.78],[66.92,-8.80]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "102",
+        "name": "太田屋新田",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [43.59,-12.00],[44.08,-12.03],[44.07,-13.66],[43.60,-13.67]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "103",
+        "name": "大門口",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [59.48,-13.22],[59.92,-13.23],[59.92,-14.66],[59.48,-14.65]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "104",
+        "name": "太田屋新田",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [62.80,-10.56],[63.27,-10.55],[63.28,-12.15],[62.78,-12.13]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "105",
+        "name": "五十鈴楼",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [65.62,-10.77],[66.08,-10.78],[66.08,-12.23],[65.62,-12.25]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "106",
+        "name": "岩亀楼",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [72.81,-10.66],[73.26,-10.67],[73.25,-12.11],[72.80,-12.12]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "107",
+        "name": "太田屋新田",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [81.74,-11.65],[82.26,-11.64],[82.30,-13.38],[81.74,-13.41]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "108",
+        "name": "横濱新田",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [92.59,-10.62],[93.10,-10.62],[93.10,-12.34],[92.59,-12.34]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "109",
+        "name": "石川坂",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [89.99,-12.68],[90.47,-12.68],[90.47,-14.45],[89.96,-14.44]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "110",
+        "name": "子供松",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [94.80,-15.50],[95.27,-15.51],[95.28,-17.16],[94.79,-17.15]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "111",
+        "name": "阿弥陀堂",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [95.60,-3.47],[96.13,-3.48],[96.16,-5.29],[95.60,-5.29]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "112",
+        "name": "横濱村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [98.11,-5.19],[98.57,-5.18],[98.56,-6.86],[98.08,-6.86]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "113",
+        "name": "龍燈楠",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [107.56,-4.05],[108.07,-4.06],[108.01,-5.81],[107.50,-5.80]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "114",
+        "name": "増徳院",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [111.03,-5.15],[111.54,-5.16],[111.55,-6.77],[111.04,-6.80]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "115",
+        "name": "杉山弁才天",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [114.28,-5.35],[114.77,-5.36],[114.78,-7.06],[114.26,-7.06]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "116",
+        "name": "金比羅",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [117.53,-6.29],[117.96,-6.27],[117.98,-8.00],[117.51,-7.99]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "117",
+        "name": "北方村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0, 
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+         [
+            [120.81,-3.06],[121.29,-3.04],[121.31,-4.70],[120.82,-4.71]
+          ]
+        ]
+      }
+    }
+  ]
+}

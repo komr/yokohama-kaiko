@@ -1,0 +1,580 @@
+ {
+  "type": "FeatureCollection",
+  "features": [
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "name": "本町二丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [108.42,-0.12],[110.85,-0.13],[110.86,-0.51],[108.38,-0.58]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "本町三丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [94.08,-0.12],[96.57,-0.12],[96.56,-0.67],[94.09,-0.71]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "name": "本町四丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [84.14,-0.16],[86.33,-0.17],[86.33,-0.67],[84.13,-0.66]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "name": "本町五丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.16,-0.18],[74.72,-0.18],[74.73,-0.65],[72.17,-0.65]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "name": "御高札",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [65.33,-0.69],[66.35,-0.64],[66.32,-2.29],[65.29,-2.32]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "name": "町会所",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [64.03,-1.00],[64.52,-0.97],[64.50,-2.62],[63.98,-2.62]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "name": "駿河町三井出店",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [111.82,-1.49],[113.66,-1.48],[113.64,-2.33],[111.78,-2.35]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "name": "本町二丁目うら通",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.69,-2.69],[110.41,-2.63],[110.40,-3.15],[107.68,-3.19]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "name": "本町三丁目うら通",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [97.69,-2.65],[100.26,-2.66],[100.24,-3.14],[97.70,-3.15]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "name": "本町四丁目うら通",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [85.40,-2.75],[87.96,-2.70],[87.94,-3.23],[85.44,-3.29]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "name": "本町五丁目うら通",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.81,-2.96],[77.94,-2.97],[77.94,-3.38],[75.81,-3.36]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12a",
+        "name": "海岸町三丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [113.00,-4.58],[115.68,-4.57],[115.66,-5.13],[112.96,-5.17]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "12b",
+        "name": "海岸町三丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [100.13,-4.55],[102.59,-4.55],[102.58,-5.08],[100.11,-5.07]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "name": "海岸町四丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [87.59,-4.46],[89.83,-4.46],[89.84,-4.96],[87.59,-4.97]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "name": "海岸町五丁目",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [79.47,-4.49],[81.70,-4.44],[81.70,-4.93],[79.46,-4.99]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "name": "西波止場",
+        "description": "国内荷物の船積・水揚場",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [66.80,-10.83],[67.40,-10.86],[67.42,-13.19],[66.79,-13.19]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "name": "東波止場",
+        "description": "外国との輸出入貨物の船積・水揚場",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [36.51,-10.83],[37.14,-10.79],[37.18,-13.13],[36.58,-13.14]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "name": "杉山道",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [8.78,-0.51],[9.34,-0.51],[9.35,-1.85],[8.80,-1.86]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "name": "横浜本村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.46,-5.51],[6.05,-5.52],[6.02,-7.28],[5.45,-7.29]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "name": "本牧道",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.60,-2.67],[1.11,-2.67],[1.11,-4.33],[0.59,-4.33]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "name": "此所ハ本町一丁目ヨリ本町二丁目同うら通海岸町二丁目磯ニ至神奈川明神前ヨリ渡舟の上場等を見渡之風景ナリ",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.33,-11.04],[110.80,-11.09],[110.76,-14.82],[106.29,-14.77]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "18",
+        "name": "横浜本町三丁目ヨリ四丁目迄うら通海岸町三丁目四丁目共ニ見渡ス其磯ニ至りて波涛打を一覧之景色ナリ",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [84.72,-11.17],[89.32,-11.20],[89.30,-14.78],[84.69,-14.71]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "19",
+        "name": "西の方波戸場ヨリ真直の通リハ港崎町ゑもん坂ニ出るを見るナリ并海岸町御船蔵本町五丁目大通リ商家の有様を見渡すに至る",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.45,-11.16],[81.88,-11.15],[81.84,-13.97],[77.45,-13.98]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "20",
+        "name": "東波戸場ハ買取たる荷物を小船ニ積入本船にうつす之有様なり西波戸場ハ江戸ヨリ積おくるの荷物を水揚の所ニて此東ハ運上屋ヨリ下リたるをつミ入る場所ナリ",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [22.35,-10.45],[26.98,-10.39],[27.05,-13.40],[22.40,-13.39]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "21",
+        "name": "横浜本村ヨリ杉山薬師道并ニ本牧十二天道の辻横浜新田等を見渡す之景",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.13,-9.83],[17.59,-9.82],[17.60,-12.69],[13.10,-12.72]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1672 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "at1",
+				"Shape *": "Point",
+				"icon_style": "circle_at",
+				"spot": "新田間橋",
+				"author": "五雲亭貞秀",
+				"publication_year": "万延元年3月（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1307396' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/aratamabashi.jpg' target='ref'><img src='./images/aratamabashi_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						125.25,
+						-10.35
+					],
+					"map_now": [
+						139.613871,
+						35.464390
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.613871,
+					35.464390
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym1",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "吉田新田ヨリ土手大木戸通吉田橋東橋つめ迄を見渡弁天町土手下生渕沼を見る図なり",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306207' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_1_honcho-1.jpg' target='ref'><img src='./images/meisho_1_honcho-1_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						44.85,
+						-7.80
+					],
+					"map_1861_syf": [
+						107.21,
+						-6.17
+					],
+					"map_1865_gkyzz": [
+						82.80,
+						-18.43
+					],
+					"map_now": [
+						139.636582,
+						35.448774
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.85,
+					-7.80
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym3",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "港崎町会所の図・岩亀楼・岩亀楼のつゝき・五十鈴楼",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1302583' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_3_miyozaki.jpg' target='ref'><img src='./images/meisho_3_miyozaki_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						71.21,
+						-12.64
+					],
+					"map_1861_syf": [
+						55.06,
+						-16.09
+					],
+					"map_1865_gkyzz": [
+						59.91,
+						-15.40
+					],
+					"map_now": [
+						139.641205,
+						35.444167
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					71.21,
+					-12.64
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym4",
+				"Shape *": "Point",
+				"spot": "大門出口の柳・大門前町港崎橋之景",
+				"icon_style": "circle_ym",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1302583' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_4_oomon.jpg' target='ref'><img src='./images/meisho_4_oomon_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						58.29,
+						-15.67
+					],
+					"map_1861_syf": [
+						60.78,
+						-14.07
+					],
+					"map_1865_gkyzz": [
+						62.94,
+						-14.67
+					],
+					"map_now": [139.638943, 35.444092]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					58.29,
+					-15.67
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym5",
+				"Shape *": "Point",
+				"spot": "本牧ト横浜ノ間洋方ニ異船を見渡シ并上総千葉ノ方迄遠景",
+				"author": "五雲亭貞秀",
+				"icon_style": "circle_ym",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306209' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_5_kurofune.jpg' target='ref'><img src='./images/meisho_5_kurofune_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						118.45,
+						-2.57
+					],
+					"map_1865_gkyzz": [
+						16.31,
+						-12.83
+					],
+					"map_now": [
+						139.679076,
+						35.447883
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.45,
+					-2.57
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym6",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "本沼橋出橋の上から神奈川新町・浦島山・生麦村の遠景",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306210' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_6_honnumabashi.jpg' target='ref'><img src='./images/meisho_6_honnumabashi_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						121.10,
+						-10.28
+					],
+					"map_now": [
+						139.618021,
+						35.461861
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.68,
+					-10.99
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym7",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "戸部村・戸部浦先の石嵜橋から見る東海道市場・鶴見の遠景",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306214' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_7_ishizakibashi.jpg' target='ref'><img src='./images/meisho_7_ishizakibashi_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						117.50,
+						-10.52
+					],
+					"map_now": [
+						139.621730,
+						35.459204
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.2,
+					-11.58
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym8",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "此所ハ切通ヨリ南下り野毛村ニ出て新町家并を見込野毛浦野毛橋を渡り吉田新田の堤を見る図ナリ",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306200' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_8_nogebashi.jpg' target='ref'><img src='./images/meisho_8_nogebashi_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						2.34,
+						-12.87
+					],
+					"map_1865_gkyzz": [
+						89.97,
+						-13.01
+					],
+					"map_now": [
+						139.631223,
+						35.446757
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.34,
+					-12.87
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym9",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "野毛橋ヨリ吉田新田の長縄手ニつゞき吉田橋西の詰ヨリ見かへり宮ケ崎の鼻老ノ婆岩并遠ク東海道筋ヲ見渡内浦を一覧の図",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306212' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_9_nogeura.jpg' target='ref'><img src='./images/meisho_9_nogeura_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						18.86,
+						-14.05
+					],
+					"map_1861_syf": [
+						77.22,
+						-4.59
+					],
+					"map_1865_gkyzz": [
+						77.02,
+						-13.74
+					],
+					"map_now": [
+						139.634208,
+						35.445097
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.86,
+					-14.05
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym10",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "戸部村ヨリ野毛村ニ至の間戸部羽沢切通しまでを見て并ニ不動山伊勢社其山向海上生麦の方を遠景之図",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306197' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_10_iseyama.jpg' target='ref'><img src='./images/meisho_10_iseyama_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						110.35,
+						-10.85
+					],
+					"map_now": [
+						139.623903,
+						35.453765
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					39.34,
+					-14.58
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym11",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "羽沢切通しヨリ天の間之方野毛村同浦野毛橋吉田新田を遠ク見込たる之図此野毛村の川を大岡川ト云此川流て金沢ニ入",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306198' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_11_kiritooshi.jpg' target='ref'><img src='./images/meisho_11_kiritooshi_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						97.97,
+						-9.56
+					],
+					"map_now": [
+						139.626035,
+						35.449603
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					61,
+					-9.29
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym12",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "新田間橋からナベヤ新田・神奈川臺・かるい沢を見る",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306199' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_12_aratamabashi.jpg' target='ref'><img src='./images/meisho_12_aratamabashi_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						124.42,
+						-10.23
+					],
+					"map_now": [
+						139.614193,
+						35.464197
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.28,
+					-9.91
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym13",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "臺の茶や、かるい沢から海岸町・本町・横濱本村を見渡す",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306203' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_13_karuizawa.jpg' target='ref'><img src='./images/meisho_13_karuizawa_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						126.53,
+						-9.90
+					],
+					"map_now": [
+						139.609334,
+						35.464134
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					3.09,
+					-4.87
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym14",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "吉田新田ヨリ土手大木戸通り吉田橋詰迄で見渡弁天町土手下生渕沼を見る之図なり",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306215' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_14_yoshidabashi-tsumesho.jpg' target='ref'><img src='./images/meisho_14_yoshidabashi-tsumesho_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						37.72,
+						-9.49
+					],
+					"map_1861_syf": [
+						99.92,
+						-5.08
+					],
+					"map_1865_gkyzz": [
+						83.36,
+						-16.98
+					],
+					"map_now": [
+						139.634668,
+						35.445846
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.72,
+					-9.49
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym15",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "横浜弁天町鳥居前通り并弁天町一丁目四ツ辻と見込池を渡り本社に至り内浦を見渡ス之図なり",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306206' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_15_bentensha.jpg' target='ref'><img src='./images/meisho_15_bentensha_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						41.83,
+						-7.92
+					],
+					"map_1861_syf": [
+						107.64,
+						-4.39
+					],
+					"map_1865_gkyzz": [
+						84.33,
+						-18.27
+					],
+					"map_now": [
+						139.635355,
+						35.449296
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.83,
+					-7.92
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym16",
+				"Shape *": "Point",
+				"spot": "海岸町一丁目船場ハ神奈川渕崎明神前ヨリ此所へ渡木戸の内ヨリ本町一丁目なりうしろに弁天山の松林迄を見込ノ図なり",
+				"icon_style": "circle_ym",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306208' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_16_watashibuneba_kaigancho.jpg' target='ref'><img src='./images/meisho_16_watashibuneba_kaigancho_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						50.74,
+						-6.10
+					],
+					"map_1860_ymi": [
+						126.55,
+						-9.18
+					],
+					"map_1861_syf": [
+						127.30,
+						-5.49
+					],
+					"map_1865_gkyzz": [
+						84.86,
+						-21.72
+					],
+					"map_now": [
+						139.638856,
+						35.451262
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					50.74,
+					-6.10
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym17",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "横浜本村ヨリ異人屋鋪并新田港崎町之方を見渡の景色ナリ",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306205' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_17_ijinyashiki.jpg' target='ref'><img src='./images/meisho_17_ijinyashiki_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						87.44,
+						-6.28
+					],
+					"map_1860_ymi": [
+						23.25,
+						-1.95
+					],
+					"map_1861_syf": [
+						48.54,
+						-24.31
+					],
+					"map_1865_gkyzz": [
+						53.03,
+						-18.04
+					],
+					"map_now": [
+						139.647876,
+						35.444524
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					92.17,
+					-4.96
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym18",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "此所ハ十二天ノ社同山ニ登リ海洋を見渡向東ノ方に上総かのふ山并木更津の方迄一ト眼に見ル之景色ナリ",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306202' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_18_juuniten.jpg' target='ref'><img src='./images/meisho_18_juuniten_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						25.72,
+						-7.53
+					],
+					"map_now": [
+						139.667143,
+						35.431003
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.667862,
+					35.430886
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ym19",
+				"Shape *": "Point",
+				"icon_style": "circle_ym",
+				"spot": "横浜ヨリ杉山薬師之山并異人の墓天の間村を見渡ス之景色ナリ",
+				"author": "五雲亭貞秀",
+				"volume": "横浜名所一覧",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1306213' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho_19_sugiyama-yakushi.jpg' target='ref'><img src='./images/meisho_19_sugiyama-yakushi_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						90.12,
+						-7.11
+					],
+					"map_1860_ymi": [
+						10.70,
+						-0.73
+					],
+					"map_1861_syf": [
+						7.96,
+						-11.46
+					],
+					"map_1865_gkyzz": [
+						55.13,
+						-16.32
+					],
+					"map_now": [
+						139.650278,
+						35.441196
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					90.12,
+					-7.11
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "yh1",
+				"Shape *": "Point",
+				"icon_style": "circle_yh",
+				"spot": "横浜本町之図",
+				"author": "一勇斎国芳",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1304356' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/yokohama-honcho-no-zu.jpg' target='ref'><img src='./images/yokohama-honcho-no-zu_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						48.95,
+						-6.34
+					],
+					"map_1860_ymi": [
+						114.24,
+						-0.62
+					],
+					"map_1861_syf": [
+						116.57,
+						-5.49
+					],
+					"map_1865_gkyzz": [
+						83.79,
+						-19.55
+					],
+					"map_now": [
+						139.637183,
+						35.449622
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.95,
+					-6.34
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ky1",
+				"Shape *": "Point",
+				"icon_style": "circle_ky",
+				"spot": "神名川横浜新開港図",
+				"author": "五雲亭貞秀",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1305641' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kanagawa-yokohama-shin-kaikouzu.jpg' target='ref'><img src='./images/kanagawa-yokohama-shin-kaikouzu_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						48.59,
+						-6.40
+					],
+					"map_1860_ymi": [
+						114.63,
+						-0.85
+					],
+					"map_1861_syf": [
+						117.31,
+						-5.46
+					],
+					"map_1865_gkyzz": [
+						83.73,
+						-19.68
+					],
+					"map_now": [
+						139.637239,
+						35.449657
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.59,
+					-6.40
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "103",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "異人三井店にて仕入買之図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_103_mitsui.jpg' target='ref'><img src='./images/kenbun_103_mitsui_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						49.32,
+						-6.56
+					],
+					"map_1860_ymi": [
+						112.59,
+						-1.30
+					],
+					"map_1861_syf": [
+						117.70,
+						-5.77
+					],
+					"map_1865_gkyzz": [
+						83.59,
+						-19.89
+					],
+					"map_now": [
+						139.637496,
+						35.449681
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.32,
+					-6.56
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "104",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "異人本町にて塗物を買入之図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_104_nurimono.jpg' target='ref'><img src='./images/kenbun_104_nurimono_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						62.75,
+						-6.27
+					],
+					"map_1860_ymi": [
+						78.37,
+						-1.87
+					],
+					"map_1861_syf": [
+						108.76,
+						-13.63
+					],
+					"map_1865_gkyzz": [
+						67.76,
+						-20.07
+					],
+					"map_now": [
+						139.640600,
+						35.448064
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					62.75,
+					-6.27
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "105",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "本町五丁目石川生糸店之図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_105_ishikawa.jpg' target='ref'><img src='./images/kenbun_105_ishikawa_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						66.05,
+						-6.16
+					],
+					"map_1860_ymi": [
+						70.03,
+						-0.85
+					],
+					"map_1861_syf": [
+						104.38,
+						-15.91
+					],
+					"map_1865_gkyzz": [
+						62.97,
+						-19.37
+					],
+					"map_now": [
+						139.641365,
+						35.447427
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					66.05,
+					-6.16
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "106",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "横濱本町壹丁目大通リ海岸渡船場之図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_106_tosen.jpg' target='ref'><img src='./images/kenbun_106_tosen_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						49.46,
+						-6.15
+					],
+					"map_1860_ymi": [
+						127.51,
+						-9.25
+					],
+					"map_1861_syf": [
+						127.53,
+						-4.52
+					],
+					"map_1865_gkyzz": [
+						85.71,
+						-21.63
+					],
+					"map_now": [
+						139.638733,
+						35.451444
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.46,
+					-6.15
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "107",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "異人遠馬走リ乗帰宅之図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_107_enba.jpg' target='ref'><img src='./images/kenbun_107_enba_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						44.43,
+						-7.95
+					],
+					"map_1861_syf": [
+						105.49,
+						-6.36
+					],
+					"map_1865_gkyzz": [
+						82.58,
+						-18.30
+					],
+					"map_now": [
+						139.636550,
+						35.448691
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.43,
+					-7.95
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "108",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "本町二丁目入口ヨリ五丁目迄を見渡シ之図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_108_honcho2iriguchi.jpg' target='ref'><img src='./images/kenbun_108_honcho2iriguchi_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						48.80,
+						-6.40
+					],
+					"map_1860_ymi": [
+						116.12,
+						-1.15
+					],
+					"map_1861_syf": [
+						117.07,
+						-5.46
+					],
+					"map_1865_gkyzz": [
+						83.97,
+						-19.75
+					],
+					"map_now": [
+						139.637314,
+						35.449621
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					48.80,
+					-6.40
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "109",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "南京神奈川舩ヨリ上リたる図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_109_kaigan2iriguchi.jpg' target='ref'><img src='./images/kenbun_109_kaigan2iriguchi_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						49.83,
+						-6.23
+					],
+					"map_1860_ymi": [
+						124.27,
+						-6.19
+					],
+					"map_1861_syf": [
+						125.52,
+						-5.17
+					],
+					"map_1865_gkyzz": [
+						84.88,
+						-21.20
+					],
+					"map_now": [
+						139.639119,
+						35.451113
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					49.83,
+					-6.23
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "110",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "本町一丁目大通リ異国船頭酒に酔たる図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_110_sendo.jpg' target='ref'><img src='./images/kenbun_110_sendo_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						43.03,
+						-8.49
+					],
+					"map_1861_syf": [
+						102.14,
+						-6.44
+					],
+					"map_1865_gkyzz": [
+						82.54,
+						-17.71
+					],
+					"map_now": [
+						139.636437,
+						35.448574
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					43.03,
+					-8.49
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "111",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "横濱異人屋敷阿蘭陀コンシーユル住所",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_111_benten.jpg' target='ref'><img src='./images/kenbun_111_benten_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						31.89,
+						-7.17
+					],
+					"map_1861_syf": [
+						108.29,
+						-2.07
+					],
+					"map_1865_gkyzz": [
+						88.63,
+						-16.99
+					],
+					"map_now": [
+						139.633675,
+						35.450688
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.89,
+					-7.17
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "112",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "本町南横通リ異人港崎帰り",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_112_kousaki.jpg' target='ref'><img src='./images/kenbun_112_kousaki_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						67.21,
+						-6.39
+					],
+					"map_1860_ymi": [
+						67.23,
+						-3.40
+					],
+					"map_1861_syf": [
+						93.82,
+						-16.62
+					],
+					"map_1865_gkyzz": [
+						62.49,
+						-19.95
+					],
+					"map_now": [
+						139.641706,
+						35.447573
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					67.21,
+					-6.39
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "113",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "横濱本町北横丁ヨリ海岸西の波止場を見渡す之図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_113_nishi_hatoba.jpg' target='ref'><img src='./images/kenbun_113_nishi_hatoba_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						68.21,
+						-6.11
+					],
+					"map_1860_ymi": [
+						64.80,
+						-2.55
+					],
+					"map_1861_syf": [
+						109.49,
+						-16.55
+					],
+					"map_1865_gkyzz": [
+						62.03,
+						-20.40
+					],
+					"map_now": [
+						139.641915,
+						35.447839
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					68.21,
+					-6.11
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "114",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "御運上所南門前之図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559369' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_114_unjousho.jpg' target='ref'><img src='./images/kenbun_114_unjousho_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						74.11,
+						-6.21
+					],
+					"map_1860_ymi": [
+						46.62,
+						-1.35
+					],
+					"map_1861_syf": [
+						101.18,
+						-19.22
+					],
+					"map_1865_gkyzz": [
+						58.79,
+						-19.45
+					],
+					"map_now": [
+						139.642253,
+						35.447075
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "201",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "五ヶ国の入船横浜ニ舶ス図。其作方大同小異なれバ表の方ヤリダシの檣錠を出しトモノ方船印を立る。此印国によりて有。此冊中第四帳目ドンタクの図ニ出たる旗の文形の如くなり。バッテイラとて元船への運走足がかり、はしご縄、鉄砲窓に至る迄のことを一船を以て外国の船と知ル二至。",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559370' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_201_irifune_u.jpg' target='ref'><img src='./images/kenbun_201_irifune_u_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						57.51,
+						-30.37
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "202",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "此処之図ハ大船真面ニ向い其船中を見るに、大砲の一段有バ其次下ノ段ハ荷物蔵、其三段下ハエンセウ蔵、エンセウ番人有。上の方よりビイドロ品を以て空気を通、又別作真面に座敷、鉄砲、エンセウ蔵。トモの方に荷物蔵有もあり。一通りに帆有。外がわはさのみなれば一船にて見るに足ルとす。",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559370' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_202_oofune_u.jpg' target='ref'><img src='./images/kenbun_202_oofune_u_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						56.88,
+						-30.27
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "203",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "船中トモの方座敷上官人集まって飯盤ニ向い酒茶遊楽之図。是亦一ト通にてハなく其造り方種々替り有バ是を出さんとするに同様の図を重出すは目あきるの元にてうるさき業なれば是を略すなり。",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559370' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_203_senchuu_u.jpg' target='ref'><img src='./images/kenbun_203_senchuu_u_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						56.10,
+						-30.24
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "204",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "此日どんたくと云いて休日なれば異人男女つどい集りて遊行音曲又ハ鉄砲を揃い持て足先を並べ調練す。",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559370' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_204_dondaku_u.jpg' target='ref'><img src='./images/kenbun_204_dondaku_u_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						75.31,
+						-5.53
+					],
+					"map_1860_ymi": [
+						48.86,
+						-8.52
+					],
+					"map_1861_syf": [
+						113.88,
+						-19.67
+					],
+					"map_1865_gkyzz": [
+						58.02,
+						-21.34
+					],
+					"map_now": [
+						139.643756,
+						35.448216
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "205",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "運上所より東、異人商館町を見込たる之図なり。南京人ハ諸用に本町に出る時、チンに似たる茶色の犬など商館にかい付ケ有を引きつれ出るも有り。異女馬上にて小サなる笠をもち、面のミかくすばかりなるを用。すべて左右共に商館門を並べ、此真向遠く山を見るハ杉山弁天の山なり。",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559370' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_205_unjosho_u.jpg' target='ref'><img src='./images/kenbun_205_unjosho_u_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						73.73,
+						-6.30
+					],
+					"map_1860_ymi": [
+						47.52,
+						-1.13
+					],
+					"map_1861_syf": [
+						101.82,
+						-18.55
+					],
+					"map_1865_gkyzz": [
+						59.31,
+						-19.43
+					],
+					"map_now": [
+						139.642007,
+						35.447156
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "206",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "異人町南側阿蘭陀寺十番ライテツ僧名住院",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559370' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_206_oranda-ji_u.jpg' target='ref'><img src='./images/kenbun_206_oranda-ji_u_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1861_syf": [
+						32.90,
+						-27.34
+					],
+					"map_1865_gkyzz": [
+						43.09,
+						-17.62
+					],
+					"map_now": [
+						139.6461373,
+						35.4439814
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "212",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "横浜海岸東波止場異人荷水揚場にて。異人これに出て自分の荷物を見分商館に人足車を以て運ばす。此波止場のにぎわい大方ならず。其大略を出す。高燈ハビイドロ障子を用ゆ。此波止ば右の水際より左波打迄二十間にまたがる。",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559370' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_212_higashi-hatoba_u.jpg' target='ref'><img src='./images/kenbun_212_higashi-hatoba_u_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						77.15,
+						-5.53
+					],
+					"map_1860_ymi": [
+						38.07,
+						-8.15
+					],
+					"map_1861_syf": [
+						112.41,
+						-20.97
+					],
+					"map_1865_gkyzz": [
+						55.52,
+						-21.34
+					],
+					"map_now": [
+						139.644495,
+						35.448161
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "214",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "横浜渡来の異人集まりて港崎町にて七月盆踊を初む。大に見物入込みたる時異人走りて是を見る。其次月八日貞秀本町に用事ありて此日行し時波止場に広き処異人数多よりつどい港崎町のごとく丸く立並びその間少し離れて大なる太鼓を打に、つれ男女児まで一同に手拍子を揃え足のふり廻しを揃えてくるりくるりと廻る。何のこともなきさまに見ゆれど其国に有ることと思えば問かくるに、今日どんたくにて踊るとのミ答ゆ。",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559370' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_214_bon-odori_u.jpg' target='ref'><img src='./images/kenbun_214_bon-odori_u_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						76.54,
+						-5.61
+					],
+					"map_1860_ymi": [
+						44.46,
+						-8.23
+					],
+					"map_1861_syf": [
+						112.80,
+						-20.10
+					],
+					"map_1865_gkyzz": [
+						56.72,
+						-21.34
+					],
+					"map_now": [
+						139.644156,
+						35.448141
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "303",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "大岡川谷町橋阿蘭陀船大工工作場にて小舟出来上り之図ならびに作初之図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559371' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_303_oranda-funadaiku_u.jpg' target='ref'><img src='./images/kenbun_303_oranda-funadaiku_u_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						90.11,
+						-5.73
+					],
+					"map_1861_syf": [
+						14.17,
+						-24.55
+					],
+					"map_1865_gkyzz": [
+						36.92,
+						-15.92
+					],
+					"map_now": [139.650351, 35.442250]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "611",
+				"Shape *": "Point",
+				"icon_style": "circle_ykk",
+				"spot": "横浜海上よりｹ崎の阿蘭陀コンシュルの屋敷を見渡すの図",
+				"author": "橋本玉蘭斎",
+				"volume": "横浜開港見聞誌",
+				"publication_year": "文久２（1862）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2559374' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/kenbun_611_Holland-Concier.jpg' target='ref'><img src='./images/kenbun_611_Holland-Concier_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						37.81,
+						-4.77
+					],
+					"map_1865_gkyzz": [
+						92.49,
+						-20.69
+					],
+					"map_now": [
+						139.634745,
+						35.452610
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.11,
+					-6.21
+				]
+			}
+		}
+	]
+}

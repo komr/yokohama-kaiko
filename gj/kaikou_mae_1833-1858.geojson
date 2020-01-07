@@ -1,0 +1,489 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "su48",
+				"Shape *": "Point",
+				"icon_style": "circle_sunago",
+				"spot": "台町茶屋之景",
+				"author": "煙管亭喜莊",
+				"volume": "金川砂子",
+				"publication_year": "文政7年（1824）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1875135' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/sunago_48_dai_chaya.jpg' target='ref'><img src='./images/sunago_48_dai_chaya_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [118.56,-20.34],
+					"map_now": [
+						139.623756,
+						35.470488
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.52,
+					-2.32
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "53t1",
+				"Shape *": "Point",
+				"icon_style": "circle_t53",
+				"spot": "川崎　六郷渡舟",
+				"author": "歌川広重",
+				"volume": "東海道五十三次",
+				"publication_year": "天保4-5年（1833-4）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1902623' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/to53_kawasaki.jpg' target='ref'><img src='./images/to53_kawasaki_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						36.52,
+						-2.32
+					],
+					"map_now": [
+						139.742086,
+						35.543282
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.52,
+					-2.32
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "53t2",
+				"Shape *": "Point",
+				"icon_style": "circle_t53",
+				"spot": "神奈川　台之景",
+				"author": "歌川広重",
+				"volume": "東海道五十三次",
+				"publication_year": "天保4-5年（1833-4）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1902623' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/to53_kanagawa.jpg' target='ref'><img src='./images/to53_kanagawa_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						119.11,
+						-21.24
+					],
+					"map_now": [
+						139.625163,
+						35.470617
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.625163,
+					35.470617
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "53t3",
+				"Shape *": "Point",
+				"icon_style": "circle_t53",
+				"spot": "保土ヶ谷　新町橋",
+				"author": "歌川広重",
+				"volume": "東海道五十三次",
+				"publication_year": "天保4-5年（1833-4）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1902623' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/to53_hodogaya.jpg' target='ref'><img src='./images/to53_hodogaya_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_now": [
+						139.602961,
+						35.453569
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.602961,
+					35.453569
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "53t4",
+				"Shape *": "Point",
+				"icon_style": "circle_t53",
+				"spot": "戸塚　元町別道",
+				"author": "歌川広重",
+				"volume": "東海道五十三次",
+				"publication_year": "天保4-5年（1833-4）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1902623' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/to53_totsuka.jpg' target='ref'><img src='./images/to53_totsuka_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_now": [
+						139.537340,
+						35.40592
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.537340,
+					35.405922
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "edo525",
+				"Shape *": "Point",
+				"icon_style": "circle_edo",
+				"spot": "神奈川臺",
+				"author": "（著）松濤軒斎藤長秋 （画）長谷川雪旦",
+				"volume": "江戸名所図会",
+				"publication_year": "天保5年（1834）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2563384' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/edo_525_kanagawa-no-dai_u2.jpg' target='ref'><img src='./images/edo_525_kanagawa-no-dai_u2_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [118.82,  -20.52],
+					"map_now": [139.623859, 35.470513]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.537340,
+					35.405922
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "edo601",
+				"Shape *": "Point",
+				"icon_style": "circle_edo",
+				"spot": "横浜弁天社",
+				"author": "（著）松濤軒斎藤長秋 （画）長谷川雪旦",
+				"volume": "江戸名所図会",
+				"publication_year": "天保5年（1834）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2563385' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/edo_601_yokohama-benzaiten-no-yashiro_u2.jpg' target='ref'><img src='./images/edo_601_yokohama-benzaiten-no-yashiro_u2_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [87.91,  -17.51],
+					"map_now": [139.634211, 35.450541]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.537340,
+					35.405922
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "edo602",
+				"Shape *": "Point",
+				"icon_style": "circle_edo",
+				"spot": "芒村姥島",
+				"author": "（著）松濤軒斎藤長秋 （画）長谷川雪旦",
+				"volume": "江戸名所図会",
+				"publication_year": "天保5年（1834）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2563385' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/edo_602_nogemura-ubashima_u2.jpg' target='ref'><img src='./images/edo_602_nogemura-ubashima_u2_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [98.33,  -18.22],
+					"map_now": [139.631291, 35.451880]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.537340,
+					35.405922
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "edo603",
+				"Shape *": "Point",
+				"icon_style": "circle_edo",
+				"spot": "本牧塙十二天社",
+				"author": "（著）松濤軒斎藤長秋 （画）長谷川雪旦",
+				"volume": "江戸名所図会",
+				"publication_year": "天保5年（1834）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2563385' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/edo_603_honmoku-12ten-no-yashiro_u2.jpg' target='ref'><img src='./images/edo_603_honmoku-12ten-no-yashiro_u2_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [26.18,   -7.37],
+					"map_now": [139.668163, 35.430432]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.537340,
+					35.405922
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "edo604",
+				"Shape *": "Point",
+				"icon_style": "circle_edo",
+				"spot": "本牧吾妻権現宮",
+				"author": "（著）松濤軒斎藤長秋 （画）長谷川雪旦",
+				"volume": "江戸名所図会",
+				"publication_year": "天保5年（1834）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2563385' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/edo_604_honmoku-azuma-gongengu_u2.jpg' target='ref'><img src='./images/edo_604_honmoku-azuma-gongengu_u2_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [28.30,   -7.70],
+					"map_now": [139.667519, 35.422472]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.537340,
+					35.405922
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "edo605",
+				"Shape *": "Point",
+				"icon_style": "circle_edo",
+				"spot": "本牧",
+				"author": "（著）松濤軒斎藤長秋 （画）長谷川雪旦",
+				"volume": "江戸名所図会",
+				"publication_year": "天保5年（1834）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/2563385' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/edo_605_honmoku_u2.jpg' target='ref'><img src='./images/edo_605_honmoku_u2_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [27.88,   -7.56],
+					"map_now": [139.662382, 35.428781]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.537340,
+					35.405922
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "ss1",
+				"Shape *": "Point",
+				"icon_style": "circle_ss",
+				"spot": "Landing of Commodore Perry, Officers and Men of the Squadron, to Meet the Imperial Commissioners at Yoku-hama, Japan, March 8th 1854",
+				"author": "Peter Bernard William Heine, 1827 - 1885",
+				"publication_year": "安政2年（1855）",
+				"source": "<br><a href='https://www.si.edu/object/npg_NPG.82.112' target='ref'>National Portrait Gallery, Smithsonian Institution; gift of August Belmont IV</a>",
+				"URL": "<a href='./images/sumisonian_NPG-8200262B_1_perry.jpg' target='ref'><img src='./images/sumisonian_NPG-8200262B_1_perry_s.jpg' width=300></a>",
+				"description": "嘉永7年2月10日（1854年3月8日）のぺリーの横浜上陸の光景。<br>左側の応接所で会談が行われ、3月3日（陽暦3月31日）に日米和親条約が調印された。<br>右側の木が現在、横浜開港資料館に残る「たますくの木」。<br>",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						77.90,
+						-5.69
+					],
+					"map_1860_ymi": [
+						37.58,
+						-6.83
+					],
+					"map_1861_syf": [
+						106.92,
+						-21.91
+					],
+					"map_1865_gkyzz": [
+						53.10,
+						-21.39
+					],
+					"map_now": [
+						139.643839,
+						35.447602
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.90,
+					-5.69
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "53m1",
+				"Shape *": "Point",
+				"icon_style": "circle_m53",
+				"spot": "川崎・鶴見川生麦の里",
+				"author": "歌川広重",
+				"volume": "五十三次名所図会",
+				"publication_year": "安政２（1855）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1309753' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho53_kawasaki.jpg' target='ref'><img src='./images/meisho53_kawasaki_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						17.53,
+						-2.69
+					],
+					"map_1865_gkyzz": [
+						18.87,
+						-39.29
+					],
+					"map_now": [
+						139.678474,
+						35.489802
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.53,
+					-2.69
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "53m2",
+				"Shape *": "Point",
+				"icon_style": "circle_m53",
+				"spot": "神奈川・臺の茶屋海上見はらし",
+				"author": "歌川広重",
+				"volume": "五十三次名所図会",
+				"publication_year": "万延１（1860）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1309753' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/meisho53_kanagawa.jpg' target='ref'><img src='./images/meisho53_kanagawa_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1865_gkyzz": [
+						118.68,
+						-20.73
+					],
+					"map_now": [
+						139.624315,
+						35.470520
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.624315,
+					35.470520
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "100edo1",
+				"Shape *": "Point",
+				"icon_style": "circle_100edo",
+				"spot": "はねたのわたし弁天の社",
+				"author": "一立齋廣重",
+				"volume": "名所江戸百景",
+				"publication_year": "安政５（1858)",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1303439' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/edo100_haneta-no-watashi_2.jpg' target='ref'><img src='./images/edo100_haneta-no-watashi_2_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						46.77,
+						-2.32
+					],
+					"map_now": [
+						139.790309,
+						35.532131
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.77,
+					-2.32
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"pid": "36f1",
+				"Shape *": "Point",
+				"icon_style": "circle_f36",
+				"spot": "武蔵野毛横はま　",
+				"author": "歌川広重",
+				"volume": "冨士三十六景",
+				"publication_year": "安政５（1858）",
+				"source": "<a href='http://dl.ndl.go.jp/info:ndljp/pid/1303439' target='ref'>国立国会図書館デジタルコレクション</a>",
+				"URL": "<a href='./images/fuji36_noge-yokohama_2.jpg' target='ref'><img src='./images/fuji36_noge-yokohama_2_s.jpg' width=300></a>",
+				"description": "",
+				"map_coordinates": {
+					"map_1860_tyf": [
+						18.60,
+						-4.61
+					],
+					"map_1865_gkyzz": [
+						95.69,
+						-19.65
+					],
+					"map_now": [
+						139.634786,
+						35.454433
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.60,
+					-4.61
+				]
+			}
+		}
+	]
+}
