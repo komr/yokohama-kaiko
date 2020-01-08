@@ -44,7 +44,7 @@ var Map_b = {
     //    "地理院地図 白地図": t_blank,
     "MIERUNE MONO": m_mono,
     "OpenStreetMap": o_std,
-    "迅速測図(1981年)": kanto_rapid,
+    "迅速測図(1881年)": kanto_rapid,
 };
 
 var Map_b2 = {
@@ -54,7 +54,7 @@ var Map_u = {
 };
 
 var Map_L = {
-    "迅速測図（明治14年(1981)）": kanto_rapid_L,
+    "迅速測図（明治14年(1881)）": kanto_rapid_L,
     "色別標高図": t_relief_L,
     "陰影起伏図": t_hillshademap_L
 };
@@ -261,7 +261,7 @@ $(function () {
     }
 
     $.getJSON("./gj/old_coastline_u.geojson", function (data) {
-        wayOverlay2(data, "迅速測図海岸線（1981年）")
+        wayOverlay2(data, "迅速測図海岸線（1881年）")
     });
 
     function pointOverlay(data, marker, layerName) {
