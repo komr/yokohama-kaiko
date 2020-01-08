@@ -29,7 +29,7 @@
       "properties": {
         "id": "2",
         "name": "常燈明岬",
-        "description": "羽田弁天の岬には高灯篭が設置された。<br>砂洲の堆積が年々沖に進行し、常夜灯が海上から遠ざかってしまったことから、何度か移設されている。当時（1860年頃）は、社殿から離れた羽田沖の浅瀬の突端に櫓（やぐら）が建てられていた。<br>(<a href=\"http://www.tamagawa-kisui.jp/ref/ref-14.html\" target=\"ref\">出典</a>）",
+        "description": "羽田弁天の岬には高灯篭が設置された。<br>砂洲の堆積が年々沖に進行し、常夜灯が海上から遠ざかってしまったことから、何度か移設されている。当時（1860年頃）は、社殿から離れた羽田沖の浅瀬の突端に櫓（やぐら）が建てられていた。",
         "style": {
           "fillColor": "#74ce46",
           "fillOpacity": 0,
@@ -52,7 +52,7 @@
       "properties": {
         "id": "3",
         "name": "弁天宮",
-        "description": "羽田弁天（別称、玉川弁財天）のこと。江戸時代中期から海上守護神として江戸商家や廻船問屋の信仰を集めた。<br>(<a href=\"http://www.tamagawa-kisui.jp/ref/ref-14.html\" target=\"ref\">出典</a>）",
+        "description": "羽田弁天（別称、玉川弁財天）のこと。江戸時代中期から海上守護神として江戸商家や廻船問屋の信仰を集めた。",
         "style": {
           "fillColor": "#74ce46",
           "fillOpacity": 0,
