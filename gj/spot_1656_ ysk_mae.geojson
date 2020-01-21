@@ -1,0 +1,695 @@
+ {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "name": "神奈川町",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [53.91,-78.75],[54.52,-79.41],[50.60,-83.10],[50.14,-82.29]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "name": "野毛村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [51.88,-60.41],[52.63,-60.46],[52.80,-62.91],[51.99,-62.92]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "name": "野毛村への道",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [54.05,-60.39],[57.61,-60.42],[57.59,-60.91],[53.93,-61.05]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "name": "野毛村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [52.01,-53.33],[52.88,-53.33],[52.92,-56.22],[51.98,-56.23]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "name": "古田有",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [56.91,-53.90],[57.55,-53.85],[57.60,-56.44],[56.88,-56.44]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "name": "神奈川への道",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [54.66,-50.30],[57.54,-52.6],[57.15,-53.14],[54.33,-50.88]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "name": "下大田村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [51.50,-32.41],[52.44,-32.32],[52.44,-36.48],[51.50,-36.48]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "name": "古田有",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [46.05,-25.89],[46.82,-25.93],[46.91,-29.21],[45.99,-29.17]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "name": "大田村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [51.71,-20.78],[52.77,-20.78],[52.77,-24.02],[51.71,-24.02]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "新宿への道",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [55.42,-15.86],[59.25,-15.98],[59.25,-16.68],[55.42,-16.68]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "name": "上大田村",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [53.71,-3.46],[54.71,-3.46],[54.71,-7.05],[53.71,-7.05]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "name": "古田有",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [41.62,-11.33],[44.08,-13.31],[43.41,-14.10],[41.20,-11.98]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "name": "入海に対し右土手",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [33.05,-6.49],[38.57,-9.18],[38.23,-9.80],[32.67,-7.31]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "name": "入海に対し左土手",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [18.08,-10.09],[ 24.79,-6.45],[ 25.08,-7.59],[18.60,-10.80]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12a",
+        "name": "古田有",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.78,-5.57],[14.72,-5.57],[15.09,-8.97],[14.05,-8.99]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "12b",
+        "name": "蒔田分",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.71,-12.87],[8.73,-12.86],[8.33,-16.49],[7.24,-16.42]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "name": "金沢蒔田への道",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 4.34,-16.45],[9.06,-17.70],[ 8.79,-18.4],[4.18,-17.13]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "name": "古田有",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.80,-22.28],[11.49,-22.24],[11.63,-25.29],[10.78,-25.34]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "name": "石川分",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.26,-23.15],[7.99,-23.12],[8.29,-25.91],[7.34,-26.07]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "name": "上石川",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.83,-26.78],[6.54,-26.77],[6.76,-29.02],[5.86,-29.01]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "name": "中石川",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.43,-30.69],[11.06,-30.57],[11.42,-32.79],[10.55,-32.84]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "name": "古田有",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.20,-44.08],[9.99,-44.05],[10.35,-47.13],[9.44,-47.25]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "name": "下石川",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [6.52,-44.52],[7.22,-44.49],[7.37,-47.66],[6.46,-47.52]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "name": "本目への道",
+        "description": "本目は本牧のこと。",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [3.27,-51.82],[6.94,-50.98],[6.99,-51.70],[ 3.41,  -52.37]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "18",
+        "name": "古田有",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.16,-55.12],[7.88,-54.98],[7.94,-58.27],[7.22,-58.32]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "19",
+        "name": "横浜",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [8.85,-67.43],[9.87,-67.46],[9.99,-70.12],[8.88,-70.07]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "20",
+        "name": "宗閑島",
+        "description": "洲干、洲乾、秀閑とも書かれる。<br>潮流と風によって削られた本牧鼻の土砂が堆積して寄洲を成したもの。",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [20.47,-73.81],[24.26,-73.55],[24.34,-74.74],[20.45,-75.09]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "name": "入海",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [26.95,-36.13],[32.26,-36.14],[32.26,-43.46],[26.95,-43.46]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "name": "穴嶋",
+        "description": "姥ガ石、姥ガ岩、姥ガ島、姥島などとも呼ばれる。",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 43.13,-66.74],[44.10,-66.72],[44.16,-69.24],[43.04,-69.28]
+          ]
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "name": "大海",
+        "description": "",
+        "style": {
+          "fillColor": "#74ce46",
+          "fillOpacity": 0,
+          "color": "#ff0",
+          "weight": 2,
+          "opacity": 0.7
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [32.93,-82.13],[38.43,-82.28],[38.43,-84.73],[32.93,-84.73]
+          ]
+        ]
+      }
+    }
+  ]
+}
